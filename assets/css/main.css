@@ -2333,7 +2333,7 @@ input, select, textarea {
 		overflow: hidden;
 	}
 
-	#text_nav:hover{
+	#nav .text_nav:hover{
 		color:#8fccff;
 	}
 		#nav > ul {
